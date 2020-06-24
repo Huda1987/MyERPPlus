@@ -10,7 +10,7 @@ author: Mochhudasurya
 description: >
   Ini adalah Blog Betta Dev Indonesia Education
 baseurl: "" # Sesuaikan dengan root / nama folder
-url: "http://127.0.0.1:4000" # Sesuaikan dengan nama url website
+url: "http://127.0.0.1:4001" # Sesuaikan dengan nama url website
 twitter_username: yourtwitter
 github_username:  yourgithub
 
